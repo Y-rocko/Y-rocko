@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am a web developer
 
 <!--
 **Y-rocko/Y-rocko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
