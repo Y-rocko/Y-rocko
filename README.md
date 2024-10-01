@@ -1,4 +1,7 @@
-### Hi there, I am a web developer
+### Hiya 
+  I am a web developer looking for work & experience. 
+
+  Currently working on Stadium - HTML: a project where i recreate Pokemon Stadium on the N64 as a website. 
 
 <!--
 **Y-rocko/Y-rocko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
